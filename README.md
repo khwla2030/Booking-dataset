@@ -7,7 +7,7 @@
 
 # Problem Statement:
 
-Usually the hotel prices these days are very high during the year due to the Ramadan season, but this year we have COVID-19. We want to know how COVID-19 affects hotal prices, and Is there a relationship between the services provided and the prices?
+Usually the hotel prices these days are very high during the year due to the Ramadan season, but this year we have COVID-19. We want to know how COVID-19 affects hotel prices, and Is there a relationship between the services provided and the prices?
 
 
 
